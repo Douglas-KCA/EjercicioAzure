@@ -1,0 +1,8 @@
+se requiere la construccion de una solucion libreria de clases local proyecto llamado planilla banco
+con una clase llamada empleado y dos propiedades, NOMBRE Y SALARIO.
+Se requiere el trabajo de dos equipos de desarrollo que realizaran cambios
+y seran aplicados a una sede central previo a liberacion
+
+armar la infraestructura necesaria para estar generando compilaciones cuando un cambio en la sede central se detecte
+
+"planilla banco en linea"
